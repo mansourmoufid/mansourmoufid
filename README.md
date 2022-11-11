@@ -1,5 +1,5 @@
 DEV Community: [dev.to/eliteraspberries](https://dev.to/eliteraspberries)
 
-Mastodon: [@mansour@mastodon.online](https://mastodon.online/@mansour)
+Mastodon: [@mansourmoufid@mstdn.social](https://mstdn.social/@mansourmoufid)
 
 Pixelfed: [mansourmoufid](https://pixelfed.social/mansourmoufid)
